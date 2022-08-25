@@ -1,2 +1,2 @@
 # proyecto
-clase1
+Primeros pasos git
