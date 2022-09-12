@@ -1,0 +1,64 @@
+
+/* -----------------------------INDEX CSS------------------------------ */
+    *{
+        margin: 0%;
+        padding: 0%;
+        box-sizing: border-box;
+        text-decoration: none;
+        color: black;
+    }
+    .container{
+        background-color: gold;
+        text-align: center;
+    }
+    .caja{
+        width:  200px;
+        height: 300px;
+        display: inline-block;
+        border: 3px solid black ;
+        padding: 10px 15px 30px 60px;
+        margin: 20px 50px;
+
+        
+    }
+    .cajauno{
+        background-color: aqua;
+    }
+    .cajados{
+        background-color: black;
+    }
+    .cajatres{
+        background-color: blue;
+    }
+    .cajacuatro{
+        background-color: blueviolet;
+    }
+    .cajacinco{
+        background-color: brown;
+    }
+    .cajaseis{
+        background-color: burlywood;
+    }
+    .cajasiete{
+        background-color: cadetblue;
+    }
+    .cajaocho{
+        background-color: chartreuse;
+    }
+    .text{
+        font-size: 3rem;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        }
+        
+        .links{
+            text-align: center;
+            background-color: darkgrey;
+            word-spacing: 20px;
+
+
+        }
+        .links li {
+            display: inline-block;
+            height: 18px;
+            margin: 20px;
+        }
