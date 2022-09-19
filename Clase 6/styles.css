@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: monospace;
+    text-decoration: none;
+}
+html{
+    background-color: darkgray;
+}
+body {
+    width: 400px;
+    
+    margin: auto;
+    background-color:white;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+    }
+    .inputcontainer{
+        display: flex;
+        flex-direction: column;
+       
+          
+    }
+    h1{
+        color: black;
+        font-size: small;
+
+    }
