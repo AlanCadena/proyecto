@@ -1,0 +1,24 @@
+#cuerpo{
+    background-color:grey;
+    background-image: url(https://imgs.search.brave.com/OlYHSffXfJZwIa6F9MnTqqN2gabPiW6ah9Y1vT1FgRM/rs:fit:1200:768:1/g:ce/aHR0cHM6Ly93d3cu/em9vcnByZW5kZW50/ZS5jb20vd3AtY29u/dGVudC91cGxvYWRz/LzIwMjAvMDEvZ2F0/b3MtaW52ZXN0aWdh/Y2lvbi01LmpwZw);
+background-repeat: no-repeat;
+background-size: 2000px;
+}
+h1{
+    color: brown;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+    text-align: center;
+
+}
+h2{
+    color: brown;
+    text-align: center;
+    font-size:  50px;
+    
+}
+p{
+    color: brown;
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}

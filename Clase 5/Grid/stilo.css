@@ -52,8 +52,9 @@
         
         .links{
             text-align: center;
-            background-color: darkgrey;
+            background-color: rgb(255, 254, 254);
             word-spacing: 20px;
+            border: solid;
 
 
         }

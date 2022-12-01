@@ -1,0 +1,29 @@
+
+.imagenes{
+    display: flex;
+    list-style: none;
+    width: 80%;
+    margin: 1rem;
+    align-items: baseline;
+}
+#fondo
+    {
+    background-color: rgba(0,0 ,0 ,0.5 );
+    background-image: url(..//imagen/pajarito.png);
+    height: 90px;
+    background-size: 90px 90px;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 15px 20px 25px 30px;
+    text-align: center;
+    }
+    .margen{
+        background-color:red;
+        margin: 15px;
+        padding: 30px;
+        border: solid 2px black;
+        height: 40px;
+        width: 50px;
+        overflow: scroll;
+        
+    }

@@ -1,0 +1,16 @@
+.carta{
+    background-color: black;
+    color: bisque;
+    width: 300px;
+    padding: 10px , 5px ;
+    border-radius: 20px;
+    
+
+}
+.contenedor{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px ;
+    
+
+}

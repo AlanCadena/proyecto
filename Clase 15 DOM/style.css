@@ -1,0 +1,11 @@
+#reloj{
+    position: fixed;
+    bottom: 1rem;
+    font-size: 2.2rem;
+    border: 1px solid gray;
+    background-color: pink;
+    border-radius: 5px;
+    padding: 0.5rem;
+    font-family: monospace;
+    opacity: 0.8;
+}

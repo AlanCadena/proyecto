@@ -1,0 +1,31 @@
+h1 {
+    color: blueviolet;
+    border: 5px rgb(250, 19, 19) outset
+}
+.parrafo{
+    color: aqua;
+}
+.parrafo2{
+    color: blue;
+}
+div p {
+    color: chartreuse;
+}
+div h2 {
+    color: rgb(230, 8, 53);
+    
+
+}
+*{
+    font-size: 100%;
+    color: black;
+}
+/*segunda forma de hacer comentarios*/
+
+
+/* borders styles*/
+#fondo{
+    background-color: rgba(red, green, blue, alpha)
+}
+
+
